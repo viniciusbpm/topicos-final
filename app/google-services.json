@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303335094473",
+    "project_id": "deputados-36a9a",
+    "storage_bucket": "deputados-36a9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303335094473:android:1fbc9a7384e697b5ca7518",
+        "android_client_info": {
+          "package_name": "br.ifsul.topicosfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtV0Ae08PIWB7rMXHjRXgMMz1I9AyLXBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
